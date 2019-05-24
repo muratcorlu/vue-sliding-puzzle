@@ -1,4 +1,6 @@
-# sliding-puzzle
+# Sliding Puzzle game with Vue/Vuex
+
+This is a sample project to try Vue/Vuex.
 
 ## Project setup
 ```
